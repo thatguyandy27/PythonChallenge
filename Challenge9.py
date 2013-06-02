@@ -24,4 +24,4 @@ class Challenge9(ChallengeBase):
 if __name__ == '__main__':
     challenge = Challenge9()
     challenge.decompress()
-    challenge.openNextChallengePage()
+    # challenge.openNextChallengePage()
